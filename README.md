@@ -8,6 +8,10 @@
 
         ng help
  
- -> Packages: npm install
+ -> Packages: 
+    
+    npm install
 
- -> Run: ng serve 
+ -> Run: 
+    
+    ng serve 
