@@ -1,6 +1,6 @@
 import {
     UserCreate
-} from '../user/create/create.component';
+} from '../components/user/create/create.component';
 
 
 import { Routes } from '@angular/router'; 

@@ -10,7 +10,7 @@ import { FormsModule , FormGroup }  from '@angular/forms';
 
 import {
     UserCreate
-} from '../user/create/create.component';
+} from '../components/user/create/create.component';
 
 
 /***************** Services *********************/
